@@ -1,5 +1,5 @@
 import unittest
-from grocery_list import GroceryList
+from src/app import GroceryList
 
 class TestGroceryList(unittest.TestCase):
     def setUp(self):
